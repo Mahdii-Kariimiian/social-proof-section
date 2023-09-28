@@ -240,6 +240,10 @@ select {
     text-align: left;
 }
 
+.card-client {
+    color: var(--SoftPink)
+}
+
 @media (min-width: 500px) {
 
     body {
