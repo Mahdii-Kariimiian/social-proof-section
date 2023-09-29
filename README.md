@@ -16,6 +16,7 @@
 I used Tailwind for the first time and did most of the design by it.
 
 ### Screenshot
+![screenshot](https://github.com/Mahdii-Kariimiian/social-proof-section/assets/134393975/7f487092-80c6-41ed-978e-dbb73a0486ef)
 
 ### Links
 -Netlify: https://guileless-kelpie-06e23e.netlify.app/
