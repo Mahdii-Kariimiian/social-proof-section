@@ -26,15 +26,7 @@ I used Tailwind for the first time and did most of the design by it.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- JavaScript
-
-### What I used
-
-````HTML
-
-````CSS
-
-````Tailwind
+- Tailwind
 
 ## Author
 
